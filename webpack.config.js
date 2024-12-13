@@ -5,7 +5,6 @@ module.exports = {
     entry: {
         index: './src/index.js',
         home: './src/home.js',
-        elisabeth: './src/elisabeth.js'
     },
     mode: 'development',
     output: {
