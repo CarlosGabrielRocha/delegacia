@@ -89,22 +89,22 @@
         border: 1px solid white;
     }
     
-    section#login > button {
+    section#login button {
         width: 60px;
         height: 30px;
         margin: 5px;
+        color: rgba(255, 255, 255, 0.616);
         background-color: var(--button-grey);
         border: none;
         border-radius: 5px;
     }
     
-    section#login > button:hover {
+    section#login  button:hover {
         border: 1px solid white;
     }
 
     a {
         text-decoration: none;
-        color: rgba(255, 255, 255, 0.616);
     }
 
     p#change-password {
@@ -134,7 +134,7 @@
         font-size: .9em;
     }
 
-    section#login > button {
+    section#login  button {
         width: 70px;
         height: 30px;
     }
